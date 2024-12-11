@@ -31,8 +31,8 @@ This repository demonstrates the creation of a basic Docker file that prints the
     ```bash
     Hello Captain
     ```
-## You can also Pull the repository from following URL.
-### Project URL : You can use this url <a href="https://github.com/rahulaauji-30/docker-hello-captain.git">here</a>
+## Project URL
+This is a local Docker project from the roadmap.sh, You can find the project details <a href="https://github.com/rahulaauji-30/docker-hello-captain.git">here</a>.
 ## Notes:<br>
 	•	This Dockerfile uses the alpine:latest image as a base.<br>
 	•	The CMD instruction tells Docker to print “Hello Captain” when the container runs.
