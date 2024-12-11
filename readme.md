@@ -32,7 +32,7 @@ This repository demonstrates the creation of a basic Docker file that prints the
     Hello Captain
     ```
 ## Project URL
-This is a local Docker project from the roadmap.sh, You can find the project details <a href="https://github.com/rahulaauji-30/docker-hello-captain.git">here</a>.
+This is a local Docker project from the roadmap.sh, You can find the project details <a href="https://roadmap.sh/projects/basic-dockerfile">here</a>.
 ## Notes:<br>
 	•	This Dockerfile uses the alpine:latest image as a base.<br>
 	•	The CMD instruction tells Docker to print “Hello Captain” when the container runs.
